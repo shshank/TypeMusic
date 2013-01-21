@@ -103,10 +103,12 @@ void setup()
  
                         //white text at the bottom
   fill(200);
-  textFont(createFont("Arial", 18));
-  text("Press TAB to change Instrument", 30, 540);
-  text("CTRL+A for ABOUT", 350, 540);
-  text("CTRL+B for Beethovan", 580, 540);
+  textFont(createFont("Arial", 12));
+  textAlign(CENTER);
+  text("Turn CAPSLOCK ON to Play", width/2, 520);
+  text("Press TAB to change Instrument", width/2, 540);
+  text("CTRL+A for ABOUT", width/2-300, 540);
+  text("CTRL+B for Beethovan", width/2+300, 540);
 }
 
 

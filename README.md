@@ -17,6 +17,6 @@ Instructions to Run TypeMusic:
 		
 4. Double Click the TypeMusic executable file.
 
-5. Enjoy Playing.
+5. Enjoy Playing. Remember to turn on your Capslock
 
 We would appreciate your feedback at http://4errors.com/typemusic
