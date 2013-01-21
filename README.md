@@ -19,4 +19,10 @@ Instructions to Run TypeMusic:
 
 5. Enjoy Playing. Remember to turn on your Capslock
 
+
+You can change the instruments by turning off the capslock and then pressing the key for 
+the instrument, the list of instruments and corresponding keys can be seen by pressing TAB
+when the application is running.
+
+
 We would appreciate your feedback at http://4errors.com/typemusic
