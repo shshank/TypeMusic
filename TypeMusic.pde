@@ -1,6 +1,5 @@
 /*TypeMusic is written by
 * Shashank Shekhar (shashankjet@gmail.com)
-* Aditya Kumar Nayak (adityanayak1991@gmail.com)
 
 Feel free to modify or use the code for your purposes.
 
